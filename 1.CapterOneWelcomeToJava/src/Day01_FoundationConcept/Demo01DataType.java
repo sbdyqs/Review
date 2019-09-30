@@ -1,6 +1,6 @@
-package Day01_TAG_And_KeyWord;
+package Day01_FoundationConcept;
 
-public class DataType {
+public class Demo01DataType {
     public static void main(String[] args) {
 
 //        数据类型 变量名称 = 常量;
