@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.CapterOneWelcomeToJava/1.CapterOneWelcomeToJava.iml" filepath="$PROJECT_DIR$/1.CapterOneWelcomeToJava/1.CapterOneWelcomeToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.LogicalControl/2.LogicalControl.iml" filepath="$PROJECT_DIR$/2.LogicalControl/2.LogicalControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Method/3.Method.iml" filepath="$PROJECT_DIR$/3.Method/3.Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.ClassAndObject/4.ClassAndObject.iml" filepath="$PROJECT_DIR$/4.ClassAndObject/4.ClassAndObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Review.iml" filepath="$PROJECT_DIR$/Review.iml" />
     </modules>
   </component>
