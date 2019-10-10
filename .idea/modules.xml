@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/2.LogicalControl/2.LogicalControl.iml" filepath="$PROJECT_DIR$/2.LogicalControl/2.LogicalControl.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Method/3.Method.iml" filepath="$PROJECT_DIR$/3.Method/3.Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.ClassAndObject/4.ClassAndObject.iml" filepath="$PROJECT_DIR$/4.ClassAndObject/4.ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Array/5.Array.iml" filepath="$PROJECT_DIR$/5.Array/5.Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Review.iml" filepath="$PROJECT_DIR$/Review.iml" />
     </modules>
   </component>
